@@ -1,9 +1,14 @@
 # Cristian Salas Lizana
 
-Analista de procesos y automatización · Coordinador de **Innovación y Desarrollo (I+D)** en ECR Group  
-Estudiante de Ingeniería en Informática (IPSS) · Rumbo a **Cloud / Data Platform Engineering en AWS**
+Analista en **ECR Group** · Estudiante de Ingeniería en Informática (IPSS)  
+Rumbo a **Cloud / Data Platform Engineering en AWS**
 
-Me dedico a encontrar procesos manuales y repetitivos y convertirlos en herramientas: automatizaciones, apps internas y flujos de datos.
+Hoy trabajo en operaciones y datos:
+
+- Administración de la plataforma de control de asistencia (GeoVictoria): usuarios, turnos y proyectos para varias cuentas.
+- Monitoreo semanal de paneles de BI y su diagnóstico.
+- Carga diaria de datos: maestra SAP → normalización con Excel/VBA → FTP → paneles en Power BI y Qlik Sense.
+- Automatización de tareas repetitivas: extensión de navegador propia y flujos en Power Automate.
 
 **Stack:** Python · Streamlit · JavaScript / React / React Native · SQL · Excel VBA · Power BI · Qlik Sense · AWS (en certificación)
 
@@ -21,15 +26,11 @@ Me dedico a encontrar procesos manuales y repetitivos y convertirlos en herramie
 | [restaurant-reservas](https://github.com/CrisASL/restaurant-reservas) | Sistema de reservas para restaurante |
 | [catalogo-react](https://github.com/CrisASL/catalogo-react) | Catálogo de productos en React |
 
-## 🧪 I+D — Innovación y Desarrollo
+## 🔒 Herramientas internas
 
-Área que coordino en ECR Group: detectar procesos manuales en cualquier área y llevarlos de la idea a una herramienta en producción, con un flujo estándar:
+Repositorios **privados** porque trabajan sobre procesos de la empresa. Casos (sin datos internos):
 
-`Solicitud → Diagnóstico → Prototipo → Piloto → Producción → Traspaso`
-
-Los repositorios de esta área son **privados** porque trabajan sobre procesos internos. Casos destacados (sin datos internos):
-
-- **Geotools:** extensión de navegador que automatiza la administración de usuarios, turnos y proyectos en una plataforma de control de asistencia.
+- **Geotools:** extensión de navegador que automatiza la administración de usuarios, turnos y proyectos en la plataforma de control de asistencia.
 
 ## 🎓 Académico (IPSS)
 
